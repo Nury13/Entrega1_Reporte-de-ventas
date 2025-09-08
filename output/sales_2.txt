@@ -1,0 +1,5 @@
+DocumentType;ID
+CC;2
+ProductCode;QuantitySold;
+P1;5;
+P1;7;
