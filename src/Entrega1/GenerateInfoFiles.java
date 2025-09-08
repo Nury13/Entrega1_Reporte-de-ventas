@@ -22,7 +22,7 @@ public class GenerateInfoFiles {
         Scanner scanner = new Scanner(System.in);
 
         try {
-            // ✅ Create output folder if it doesn't exist
+            // Create output folder if it doesn't exist
             File outputDir = new File(OUTPUT_DIR);
             if (!outputDir.exists()) {
                 outputDir.mkdirs();
