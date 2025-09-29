@@ -1,3 +1,2 @@
 DocumentType;ID;FirstName;LastName
-CC;1;Juan ;Perez
-CC;2;Pedro;Castillo
+CC;1;JUANITA;PEREZ

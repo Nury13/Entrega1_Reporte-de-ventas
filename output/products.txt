@@ -1,4 +1,2 @@
 Code;Name;Price
-P0;TV Samsung 55";8717342
-P1;Celular OPPo;6325898
-P2;Smartwatch;8984560
+P0;TILAPIA;7899585
