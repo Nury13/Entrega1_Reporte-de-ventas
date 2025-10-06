@@ -1,0 +1,30 @@
+Resumen de lo Aprendido
+
+Durante el desarrollo del proyecto se logró aprender:
+
+1. El uso de Java para manejo de archivos planos.
+
+2. La estructura de proyectos en Eclipse.
+
+3. El uso de Git y GitHub para el control de versiones.
+
+4. Cómo organizar datos de entrada y salida en un sistema práctico.
+
+Aplicación de conocimientos en el ámbito profesional:
+
+1. Automatización de reportes de ventas en empresas pequeñas.
+
+2. Preprocesamiento de información para sistemas contables o de facturación.
+
+3. Simulación de datos de prueba en proyectos de software.
+
+Dificultades Presentadas
+
+Durante el desarrollo del proyecto se me presentaron algunos retos:
+
+Configuración de rutas de archivos en Eclipse.
+
+2. Sincronización del repositorio en GitHub.
+
+3. Ajustes en la estructura del código para permitir mayor organización.
+
